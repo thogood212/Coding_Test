@@ -12,3 +12,6 @@ def solution(phone_book):
     print(temp)
     print(hash_map)
     return answer
+
+    if str[i] != str[(len(str)-1)-i]:
+            return 'No'
